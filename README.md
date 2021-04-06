@@ -6,6 +6,8 @@ I'm currently working on [Athens](https://github.com/gomods/athens) and [KEDA-HT
 
 You can reach me on the internet at `arschles` on most platforms including [Twitter](https://twitter.com/arschles), [Gophers slack](https://gophers.slack.com/join/shared_invite/zt-o2s1e0w3-uQ1wyrfVloMffstqOgKIZQ#/) and [Kubernetes slack](http://slack.kubernetes.io/).
 
-Talk to you soon!
+If you want to read more about me, check out my blog and personal site at [arschles.com](https://arschles.com). I also write occassionally on [dev.to](https://dev.to/arschles).
+
+See you soon!
 
 -- Aaron
